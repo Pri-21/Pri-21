@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Pri-21
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on any project big or small
 - 📫 How to reach me - through LinkedIn www.linkedin.com/in/priya-chauhan-3bb917201 or via email Priya.Chauhan21@outlook.com
 
